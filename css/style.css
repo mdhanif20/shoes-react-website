@@ -1,0 +1,28 @@
+/* common css for full website  */
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.background{
+    background-color:#FFF9F4;
+}
+.header-text-edit{
+    font-size: 4.5rem;
+    color: #FA804C;
+
+}
+.header-text-edit span{
+    color:#35395B;
+}
+.shoes-header{
+    color:#35395B;
+}
+.card-img-color{
+    background-color: #F1F1F1;
+    border-radius: 15px;
+}
+.product-price{
+    color: #FA804C;
+}
+.service-img-sizing{
+    width: 70px;
+}
